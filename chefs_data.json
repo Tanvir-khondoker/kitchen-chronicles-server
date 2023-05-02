@@ -1,0 +1,217 @@
+[
+  {
+    "name": "Can Burak",
+    "id": "cb123",
+    "experience_years": 15,
+    "num_recipes": 60,
+    "likes": 15000,
+    "short_bio": "Can Burak is a famous Turkish chef known for his unique blend of traditional Turkish and modern European cuisine. He has won numerous awards and is a regular judge on the Turkish version of MasterChef.",
+    "chef_picture": "https://www.example.com/canburak.jpg",
+    "recipes": {
+      "first_recipe": {
+        "recipe_name": "Iskender Kebab",
+        "ingredients": "Lamb meat, tomato paste, onion, tomato, bell pepper, garlic, yogurt, butter, red pepper flakes, salt",
+        "cooking_method": "Grill the meat, then slice it and place on a bed of pita bread, top with tomato sauce, melted butter, and yogurt. Serve with grilled vegetables and rice.",
+        "rating": 4.5,
+        "recipe_picture": "https://www.example.com/iskenderkebab.jpg",
+        "recipe_id": "cb123r1"
+      },
+      "second_recipe": {
+        "recipe_name": "Baklava",
+        "ingredients": "Phyllo dough, walnuts, sugar, butter, lemon juice, water",
+        "cooking_method": "Layer phyllo dough with crushed walnuts, then bake and top with a sugar syrup made with butter, lemon juice, and water.",
+        "rating": 4.2,
+        "recipe_picture": "https://www.example.com/baklava.jpg",
+        "recipe_id": "cb123r2"
+      },
+      "third_recipe": {
+        "recipe_name": "Lahmacun",
+        "ingredients": "Ground beef, tomato, onion, parsley, red pepper flakes, cumin, salt, olive oil, lemon juice",
+        "cooking_method": "Mix the ground beef with tomato paste, onion, parsley, and spices. Spread the mixture on a thin dough, then bake until crispy. Serve with lemon juice and olive oil.",
+        "rating": 4.8,
+        "recipe_picture": "https://www.example.com/lahmacun.jpg",
+        "recipe_id": "cb123r3"
+      }
+    }
+  },
+
+  {
+    "name": "Nusret Gökçe",
+    "id": "ng456",
+    "experience_years": 25,
+    "num_recipes": 35,
+    "likes": 20000,
+    "short_bio": "Nusret Gökçe, also known as Salt Bae, is a Turkish chef and restaurateur who gained international fame for his unique style of preparing and seasoning meat. He is the owner of the Nusr-Et steakhouse chain and has attracted a large following on social media.",
+    "chef_picture": "https://www.example.com/nusretgokce.jpg",
+    "recipes": {
+      "first_recipe": {
+        "recipe_name": "Nusr-Et Steak",
+        "ingredients": "Ribeye steak, sea salt, black pepper, butter, garlic",
+        "cooking_method": "Season the steak with salt and pepper, grill it to your desired doneness, then finish with a sprinkle of salt and a garlic butter sauce.",
+        "rating": 4.9,
+        "recipe_picture": "https://www.example.com/nusretsteak.jpg",
+        "recipe_id": "ng456r1"
+      },
+      "second_recipe": {
+        "recipe_name": "Lokum Burger",
+        "ingredients": "Ground beef, bacon, cheddar cheese, tomato, lettuce, mayonnaise, ketchup, sweet buns",
+        "cooking_method": "Mix the ground beef with bacon, shape into patties, grill until cooked through, then top with cheddar cheese. Assemble the burger with lettuce, tomato, mayo, and ketchup, and serve on a sweet bun.",
+        "rating": 4.3,
+        "recipe_picture": "https://www.example.com/lokumburger.jpg",
+        "recipe_id": "ng456r2"
+      },
+      "third_recipe": {
+        "recipe_name": "Kunefe",
+        "ingredients": "Shredded phyllo dough, unsalted cheese, sugar syrup, pistachios",
+        "cooking_method": "Layer the shredded phyllo dough with unsalted cheese, bake until crispy, then pour sugar syrup over the top and sprinkle with pistachios.",
+        "rating": 4.6,
+        "recipe_picture": "https://www.example.com/kunefe.jpg",
+        "recipe_id": "ng456r3"
+      }
+    }
+  },
+
+  {
+    "name": "Arda Türkmen",
+    "id": "at789",
+    "experience_years": 20,
+    "num_recipes": 50,
+    "likes": 18000,
+    "short_bio": "Arda Türkmen is a renowned Turkish chef who has worked in some of the top restaurants in Turkey and Europe. He is known for his innovative use of local ingredients and his passion for preserving traditional Turkish cuisine.",
+    "chef_picture": "https://www.example.com/ardaturkmen.jpg",
+    "recipes": {
+      "first_recipe": {
+        "recipe_name": "Hünkar Beğendi",
+        "ingredients": "Lamb, eggplant, milk, butter, flour, onion, garlic, tomato paste, red pepper flakes, salt",
+        "cooking_method": "Grill the lamb and set aside. Roast the eggplant and blend it with milk and flour to make a creamy sauce. Cook the onion and garlic, then add tomato paste and spices. Serve the lamb on a bed of the eggplant sauce.",
+        "rating": 4.7,
+        "recipe_picture": "https://www.example.com/hunkarbegendi.jpg",
+        "recipe_id": "at789r1"
+      },
+      "second_recipe": {
+        "recipe_name": "Çılbır",
+        "ingredients": "Eggs, yogurt, butter, garlic, red pepper flakes, salt",
+        "cooking_method": "Poach the eggs, then place them on a bed of garlicky yogurt sauce. Top with melted butter and red pepper flakes.",
+        "rating": 4.4,
+        "recipe_picture": "https://www.example.com/cilbir.jpg",
+        "recipe_id": "at789r2"
+      },
+      "third_recipe": {
+        "recipe_name": "Tavuklu Pide",
+        "ingredients": "Chicken, onion, tomato, red pepper, green pepper, parsley, olive oil, lemon juice, pide dough",
+        "cooking_method": "Grill the chicken and set aside. Cook the onion and peppers, then add tomato paste and spices. Roll out the pide dough, top with the chicken and vegetable mixture, and bake until crispy. Serve with lemon juice and parsley.",
+        "rating": 4.9,
+        "recipe_picture": "https://www.example.com/tavuklupide.jpg",
+        "recipe_id": "at789r3"
+      }
+    }
+  },
+
+  {
+    "name": "Maksut Askar",
+    "id": "ma123",
+    "experience_years": 30,
+    "num_recipes": 100,
+    "likes": 25000,
+    "short_bio": "Maksut Askar is a highly respected Turkish chef and owner of the restaurant Neolokal in Istanbul. He is known for his modern take on traditional Turkish cuisine and his commitment to using locally sourced, seasonal ingredients.",
+    "chef_picture": "https://www.example.com/maksutaskar.jpg",
+    "recipes": {
+      "first_recipe": {
+        "recipe_name": "Manti",
+        "ingredients": "Ground beef, onion, garlic, salt, black pepper, allspice, yogurt, tomato paste, butter, mint",
+        "cooking_method": "Mix the ground beef with onion, garlic, and spices, then shape into small dumplings. Boil until cooked, then top with garlicky yogurt sauce and tomato butter. Sprinkle with mint.",
+        "rating": 4.8,
+        "recipe_picture": "https://www.example.com/manti.jpg",
+        "recipe_id": "ma123r1"
+      },
+      "second_recipe": {
+        "recipe_name": "Köfte",
+        "ingredients": "Ground lamb, onion, garlic, bread crumbs, egg, cumin, salt, black pepper, parsley, tomato, green pepper, red onion, sumac",
+        "cooking_method": "Mix the ground lamb with onion, garlic, bread crumbs, egg, and spices. Shape into patties and grill until cooked through. Serve with sliced tomato, green pepper, red onion, and a sprinkle of sumac.",
+        "rating": 4.6,
+        "recipe_picture": "https://www.example.com/kofte.jpg",
+        "recipe_id": "ma123r2"
+      },
+      "third_recipe": {
+        "recipe_name": "Midye Dolma",
+        "ingredients": "Mussels, rice, onion, currants, pine nuts, allspice, black pepper, olive oil, lemon juice, parsley",
+        "cooking_method": "Cook the rice, onion, currants, pine nuts, and spices together. Stuff the mixture into the mussels, then grill until the mussels are cooked and the rice is crispy. Serve with olive oil, lemon juice, and parsley.",
+        "rating": 4.7,
+        "recipe_picture": "https://www.example.com/midyedolma.jpg",
+        "recipe_id": "ma123r3"
+      }
+    }
+  },
+
+  {
+    "name": "Cemre Narin",
+    "id": "cn123",
+    "experience_years": 15,
+    "num_recipes": 80,
+    "likes": 24000,
+    "short_bio": "Cemre Narin is a renowned Turkish chef who is known for her modern take on Turkish cuisine. She has worked in several Michelin-starred restaurants in Europe and Asia, and has won numerous awards for her innovative dishes.",
+    "chef_picture": "https://www.example.com/cemrenarin.jpg",
+    "recipes": {
+      "first_recipe": {
+        "recipe_name": "Içli Köfte",
+        "ingredients": "Ground beef, onion, bulgur, tomato paste, parsley, mint, cumin, red pepper flakes, salt",
+        "cooking_method": "Mix the ground beef with bulgur, spices, and herbs. Make small balls with the mixture, then stuff each ball with a mixture of onion, tomato paste, and spices. Fry the stuffed balls until golden brown and crispy.",
+        "rating": 4.8,
+        "recipe_picture": "https://www.example.com/iclikofte.jpg",
+        "recipe_id": "cn123r1"
+      },
+      "second_recipe": {
+        "recipe_name": "Kuzu Tandır",
+        "ingredients": "Lamb shoulder, onion, garlic, tomato, red pepper, olive oil, lemon juice, bay leaves, salt",
+        "cooking_method": "Rub the lamb shoulder with a mixture of spices and herbs. Place it in a baking dish with onion, garlic, tomato, red pepper, and bay leaves. Cover the dish and bake it in the oven until the meat is tender and falls off the bone.",
+        "rating": 4.6,
+        "recipe_picture": "https://www.example.com/kuzutandir.jpg",
+        "recipe_id": "cn123r2"
+      },
+      "third_recipe": {
+        "recipe_name": "Kabak Tatlısı",
+        "ingredients": "Zucchini, sugar, water, lemon juice, vanilla extract, cinnamon",
+        "cooking_method": "Slice the zucchini into thin rounds, then boil it with sugar, water, lemon juice, and vanilla extract until the mixture thickens. Serve the zucchini with a sprinkle of cinnamon on top.",
+        "rating": 4.3,
+        "recipe_picture": "https://www.example.com/kabaktatli.jpg",
+        "recipe_id": "cn123r3"
+      }
+    }
+  },
+
+  {
+    "name": "Engin Akgün",
+    "id": "ea456",
+    "experience_years": 15,
+    "num_recipes": 30,
+    "likes": 12000,
+    "short_bio": "Engin Akgün is a well-known Turkish chef who is known for his expertise in modern Turkish cuisine. He is passionate about using fresh, local ingredients to create unique and innovative dishes.",
+    "chef_picture": "https://www.example.com/enginakgun.jpg",
+    "recipes": {
+      "first_recipe": {
+        "recipe_name": "Lahmacun",
+        "ingredients": "Ground beef, onion, garlic, tomato paste, red pepper flakes, paprika, cumin, salt, parsley, lemon juice, pide dough",
+        "cooking_method": "Mix the ground beef, onion, garlic, tomato paste, and spices together. Roll out the pide dough, spread the mixture over it, and bake until crispy. Serve with parsley and lemon juice.",
+        "rating": 4.8,
+        "recipe_picture": "https://www.example.com/lahmacun.jpg",
+        "recipe_id": "ea456r1"
+      },
+      "second_recipe": {
+        "recipe_name": "Muhammara",
+        "ingredients": "Red bell peppers, walnuts, breadcrumbs, garlic, lemon juice, cumin, paprika, salt, olive oil",
+        "cooking_method": "Roast the red bell peppers and peel off the skin. Blend the peppers, walnuts, breadcrumbs, garlic, and spices together. Serve with a drizzle of olive oil.",
+        "rating": 4.6,
+        "recipe_picture": "https://www.example.com/muhammara.jpg",
+        "recipe_id": "ea456r2"
+      },
+      "third_recipe": {
+        "recipe_name": "Künefe",
+        "ingredients": "Shredded phyllo dough, unsalted cheese, sugar syrup, butter, pistachios",
+        "cooking_method": "Mix the shredded phyllo dough with melted butter. Spread a layer of unsalted cheese on top, then cover with another layer of phyllo dough. Bake until golden brown and crispy. Drizzle sugar syrup over the top and sprinkle with pistachios.",
+        "rating": 4.9,
+        "recipe_picture": "https://www.example.com/kunefe.jpg",
+        "recipe_id": "ea456r3"
+      }
+    }
+  }
+]
