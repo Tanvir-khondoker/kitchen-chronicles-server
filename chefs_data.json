@@ -6,14 +6,14 @@
     "num_recipes": 60,
     "likes": 15000,
     "short_bio": "Can Burak is a famous Turkish chef known for his unique blend of traditional Turkish and modern European cuisine. He has won numerous awards and is a regular judge on the Turkish version of MasterChef.",
-    "chef_picture": "https://www.example.com/canburak.jpg",
+    "chef_picture": "https://i.ibb.co/r7pm9xR/turkish-chef-czn-burak-needs-fans-help-to-name-his-new-special-burger-1660980248-5849.jpg",
     "recipes": {
       "first_recipe": {
         "recipe_name": "Iskender Kebab",
         "ingredients": "Lamb meat, tomato paste, onion, tomato, bell pepper, garlic, yogurt, butter, red pepper flakes, salt",
         "cooking_method": "Grill the meat, then slice it and place on a bed of pita bread, top with tomato sauce, melted butter, and yogurt. Serve with grilled vegetables and rice.",
         "rating": 4.5,
-        "recipe_picture": "https://www.example.com/iskenderkebab.jpg",
+        "recipe_picture": "https://www.chocolatesandchai.com/wp-content/uploads/2022/03/Iskender-Kebab-Featured.jpg",
         "recipe_id": "cb123r1"
       },
       "second_recipe": {
@@ -21,7 +21,7 @@
         "ingredients": "Phyllo dough, walnuts, sugar, butter, lemon juice, water",
         "cooking_method": "Layer phyllo dough with crushed walnuts, then bake and top with a sugar syrup made with butter, lemon juice, and water.",
         "rating": 4.2,
-        "recipe_picture": "https://www.example.com/baklava.jpg",
+        "recipe_picture": "https://cdn.tasteatlas.com/images/recipes/105a4e88dca44f4a81dbaf6ccb7b83bc.jpg",
         "recipe_id": "cb123r2"
       },
       "third_recipe": {
@@ -29,7 +29,7 @@
         "ingredients": "Ground beef, tomato, onion, parsley, red pepper flakes, cumin, salt, olive oil, lemon juice",
         "cooking_method": "Mix the ground beef with tomato paste, onion, parsley, and spices. Spread the mixture on a thin dough, then bake until crispy. Serve with lemon juice and olive oil.",
         "rating": 4.8,
-        "recipe_picture": "https://www.example.com/lahmacun.jpg",
+        "recipe_picture": "https://images.immediate.co.uk/production/volatile/sites/30/2022/09/Lahmacun-1-c4dc646.jpg",
         "recipe_id": "cb123r3"
       }
     }
@@ -42,14 +42,14 @@
     "num_recipes": 35,
     "likes": 20000,
     "short_bio": "Nusret Gökçe, also known as Salt Bae, is a Turkish chef and restaurateur who gained international fame for his unique style of preparing and seasoning meat. He is the owner of the Nusr-Et steakhouse chain and has attracted a large following on social media.",
-    "chef_picture": "https://www.example.com/nusretgokce.jpg",
+    "chef_picture": "https://i.ibb.co/fQrQ6fG/Nusret-G-k-e-0.jpg",
     "recipes": {
       "first_recipe": {
         "recipe_name": "Nusr-Et Steak",
         "ingredients": "Ribeye steak, sea salt, black pepper, butter, garlic",
         "cooking_method": "Season the steak with salt and pepper, grill it to your desired doneness, then finish with a sprinkle of salt and a garlic butter sauce.",
         "rating": 4.9,
-        "recipe_picture": "https://www.example.com/nusretsteak.jpg",
+        "recipe_picture": "https://www.theworlds50best.com/discovery/filestore/jpg/Nusret%20(1).jpg",
         "recipe_id": "ng456r1"
       },
       "second_recipe": {
@@ -57,7 +57,7 @@
         "ingredients": "Ground beef, bacon, cheddar cheese, tomato, lettuce, mayonnaise, ketchup, sweet buns",
         "cooking_method": "Mix the ground beef with bacon, shape into patties, grill until cooked through, then top with cheddar cheese. Assemble the burger with lettuce, tomato, mayo, and ketchup, and serve on a sweet bun.",
         "rating": 4.3,
-        "recipe_picture": "https://www.example.com/lokumburger.jpg",
+        "recipe_picture": "https://media-cdn.tripadvisor.com/media/photo-s/19/4b/6e/dc/lokum-burger.jpg",
         "recipe_id": "ng456r2"
       },
       "third_recipe": {
@@ -65,7 +65,7 @@
         "ingredients": "Shredded phyllo dough, unsalted cheese, sugar syrup, pistachios",
         "cooking_method": "Layer the shredded phyllo dough with unsalted cheese, bake until crispy, then pour sugar syrup over the top and sprinkle with pistachios.",
         "rating": 4.6,
-        "recipe_picture": "https://www.example.com/kunefe.jpg",
+        "recipe_picture": "https://www.thespruceeats.com/thmb/R0nJkgqlMB6IGjR7nDqXjx713T4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Fotolia_37853115_M-56a993f33df78cf772a87cc6.jpg",
         "recipe_id": "ng456r3"
       }
     }
@@ -78,7 +78,7 @@
     "num_recipes": 50,
     "likes": 18000,
     "short_bio": "Arda Türkmen is a renowned Turkish chef who has worked in some of the top restaurants in Turkey and Europe. He is known for his innovative use of local ingredients and his passion for preserving traditional Turkish cuisine.",
-    "chef_picture": "https://www.example.com/ardaturkmen.jpg",
+    "chef_picture": "https://i.ibb.co/GPhbKfN/arda-turkmen-kimdir-ve-kac-yasindadir-arda-turkmenin-esi-1658128346-1153.webp",
     "recipes": {
       "first_recipe": {
         "recipe_name": "Hünkar Beğendi",
@@ -114,7 +114,7 @@
     "num_recipes": 100,
     "likes": 25000,
     "short_bio": "Maksut Askar is a highly respected Turkish chef and owner of the restaurant Neolokal in Istanbul. He is known for his modern take on traditional Turkish cuisine and his commitment to using locally sourced, seasonal ingredients.",
-    "chef_picture": "https://www.example.com/maksutaskar.jpg",
+    "chef_picture": "https://i.ibb.co/dLGrmyf/400-maksut-min.jpg",
     "recipes": {
       "first_recipe": {
         "recipe_name": "Manti",
@@ -150,7 +150,7 @@
     "num_recipes": 80,
     "likes": 24000,
     "short_bio": "Cemre Narin is a renowned Turkish chef who is known for her modern take on Turkish cuisine. She has worked in several Michelin-starred restaurants in Europe and Asia, and has won numerous awards for her innovative dishes.",
-    "chef_picture": "https://www.example.com/cemrenarin.jpg",
+    "chef_picture": "https://i.ibb.co/9Gx4Htr/gettyimages-1082610132-612x612.jpg",
     "recipes": {
       "first_recipe": {
         "recipe_name": "Içli Köfte",
@@ -186,7 +186,7 @@
     "num_recipes": 30,
     "likes": 12000,
     "short_bio": "Engin Akgün is a well-known Turkish chef who is known for his expertise in modern Turkish cuisine. He is passionate about using fresh, local ingredients to create unique and innovative dishes.",
-    "chef_picture": "https://www.example.com/enginakgun.jpg",
+    "chef_picture": "https://i.ibb.co/mhjtqCd/P3-OLGJ1-copy-1.png",
     "recipes": {
       "first_recipe": {
         "recipe_name": "Lahmacun",
