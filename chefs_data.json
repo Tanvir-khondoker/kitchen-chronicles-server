@@ -85,7 +85,7 @@
         "ingredients": "Lamb, eggplant, milk, butter, flour, onion, garlic, tomato paste, red pepper flakes, salt",
         "cooking_method": "Grill the lamb and set aside. Roast the eggplant and blend it with milk and flour to make a creamy sauce. Cook the onion and garlic, then add tomato paste and spices. Serve the lamb on a bed of the eggplant sauce.",
         "rating": 4.7,
-        "recipe_picture": "https://www.example.com/hunkarbegendi.jpg",
+        "recipe_picture": "https://turkishstylecooking.com/wp-content/uploads/2011/07/hunkar_begendi3.jpg",
         "recipe_id": "at789r1"
       },
       "second_recipe": {
@@ -93,7 +93,7 @@
         "ingredients": "Eggs, yogurt, butter, garlic, red pepper flakes, salt",
         "cooking_method": "Poach the eggs, then place them on a bed of garlicky yogurt sauce. Top with melted butter and red pepper flakes.",
         "rating": 4.4,
-        "recipe_picture": "https://www.example.com/cilbir.jpg",
+        "recipe_picture": "https://i4.hurimg.com/i/hurriyet/75/1200x675/5ea009312269a218ac53a1a2.jpg",
         "recipe_id": "at789r2"
       },
       "third_recipe": {
@@ -101,7 +101,7 @@
         "ingredients": "Chicken, onion, tomato, red pepper, green pepper, parsley, olive oil, lemon juice, pide dough",
         "cooking_method": "Grill the chicken and set aside. Cook the onion and peppers, then add tomato paste and spices. Roll out the pide dough, top with the chicken and vegetable mixture, and bake until crispy. Serve with lemon juice and parsley.",
         "rating": 4.9,
-        "recipe_picture": "https://www.example.com/tavuklupide.jpg",
+        "recipe_picture": "https://www.ustapideci.com.tr/cmsfiles/products/tavuklu-pide.png?v=30",
         "recipe_id": "at789r3"
       }
     }
@@ -121,7 +121,7 @@
         "ingredients": "Ground beef, onion, garlic, salt, black pepper, allspice, yogurt, tomato paste, butter, mint",
         "cooking_method": "Mix the ground beef with onion, garlic, and spices, then shape into small dumplings. Boil until cooked, then top with garlicky yogurt sauce and tomato butter. Sprinkle with mint.",
         "rating": 4.8,
-        "recipe_picture": "https://www.example.com/manti.jpg",
+        "recipe_picture": "https://cdn.shopify.com/s/files/1/0493/3061/8524/articles/LZJ75EYE1WDy0nVU-Is5C_1200x1200.jpg?v=1633444713",
         "recipe_id": "ma123r1"
       },
       "second_recipe": {
@@ -129,7 +129,7 @@
         "ingredients": "Ground lamb, onion, garlic, bread crumbs, egg, cumin, salt, black pepper, parsley, tomato, green pepper, red onion, sumac",
         "cooking_method": "Mix the ground lamb with onion, garlic, bread crumbs, egg, and spices. Shape into patties and grill until cooked through. Serve with sliced tomato, green pepper, red onion, and a sprinkle of sumac.",
         "rating": 4.6,
-        "recipe_picture": "https://www.example.com/kofte.jpg",
+        "recipe_picture": "https://www.turkishfoodtravel.com/wp-content/uploads/2021/03/kofte_big-500x375.jpg",
         "recipe_id": "ma123r2"
       },
       "third_recipe": {
@@ -137,7 +137,7 @@
         "ingredients": "Mussels, rice, onion, currants, pine nuts, allspice, black pepper, olive oil, lemon juice, parsley",
         "cooking_method": "Cook the rice, onion, currants, pine nuts, and spices together. Stuff the mixture into the mussels, then grill until the mussels are cooked and the rice is crispy. Serve with olive oil, lemon juice, and parsley.",
         "rating": 4.7,
-        "recipe_picture": "https://www.example.com/midyedolma.jpg",
+        "recipe_picture": "https://thumbs.dreamstime.com/z/turkish-style-stuffed-mussels-midye-dolma-white-background-145564543.jpg",
         "recipe_id": "ma123r3"
       }
     }
@@ -157,7 +157,7 @@
         "ingredients": "Ground beef, onion, bulgur, tomato paste, parsley, mint, cumin, red pepper flakes, salt",
         "cooking_method": "Mix the ground beef with bulgur, spices, and herbs. Make small balls with the mixture, then stuff each ball with a mixture of onion, tomato paste, and spices. Fry the stuffed balls until golden brown and crispy.",
         "rating": 4.8,
-        "recipe_picture": "https://www.example.com/iclikofte.jpg",
+        "recipe_picture": "https://cdn.yemek.com/mnresize/1250/833/uploads/2020/12/baharatli-icli-kofte-tarifi.jpg",
         "recipe_id": "cn123r1"
       },
       "second_recipe": {
@@ -165,7 +165,7 @@
         "ingredients": "Lamb shoulder, onion, garlic, tomato, red pepper, olive oil, lemon juice, bay leaves, salt",
         "cooking_method": "Rub the lamb shoulder with a mixture of spices and herbs. Place it in a baking dish with onion, garlic, tomato, red pepper, and bay leaves. Cover the dish and bake it in the oven until the meat is tender and falls off the bone.",
         "rating": 4.6,
-        "recipe_picture": "https://www.example.com/kuzutandir.jpg",
+        "recipe_picture": "https://cdn.yemek.com/mnresize/1250/833/uploads/2018/07/bby-tandir-yemekcom.jpg",
         "recipe_id": "cn123r2"
       },
       "third_recipe": {
@@ -173,7 +173,7 @@
         "ingredients": "Zucchini, sugar, water, lemon juice, vanilla extract, cinnamon",
         "cooking_method": "Slice the zucchini into thin rounds, then boil it with sugar, water, lemon juice, and vanilla extract until the mixture thickens. Serve the zucchini with a sprinkle of cinnamon on top.",
         "rating": 4.3,
-        "recipe_picture": "https://www.example.com/kabaktatli.jpg",
+        "recipe_picture": "https://www.egricayir.com/resimler/resimler/kabak_tatlisi_nedir_1652048729.jpg",
         "recipe_id": "cn123r3"
       }
     }
@@ -193,7 +193,7 @@
         "ingredients": "Ground beef, onion, garlic, tomato paste, red pepper flakes, paprika, cumin, salt, parsley, lemon juice, pide dough",
         "cooking_method": "Mix the ground beef, onion, garlic, tomato paste, and spices together. Roll out the pide dough, spread the mixture over it, and bake until crispy. Serve with parsley and lemon juice.",
         "rating": 4.8,
-        "recipe_picture": "https://www.example.com/lahmacun.jpg",
+        "recipe_picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lahmacun.jpg/1200px-Lahmacun.jpg",
         "recipe_id": "ea456r1"
       },
       "second_recipe": {
@@ -201,7 +201,7 @@
         "ingredients": "Red bell peppers, walnuts, breadcrumbs, garlic, lemon juice, cumin, paprika, salt, olive oil",
         "cooking_method": "Roast the red bell peppers and peel off the skin. Blend the peppers, walnuts, breadcrumbs, garlic, and spices together. Serve with a drizzle of olive oil.",
         "rating": 4.6,
-        "recipe_picture": "https://www.example.com/muhammara.jpg",
+        "recipe_picture": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/muhammara-char-grilled-capsicum-chilli.jpg",
         "recipe_id": "ea456r2"
       },
       "third_recipe": {
@@ -209,7 +209,7 @@
         "ingredients": "Shredded phyllo dough, unsalted cheese, sugar syrup, butter, pistachios",
         "cooking_method": "Mix the shredded phyllo dough with melted butter. Spread a layer of unsalted cheese on top, then cover with another layer of phyllo dough. Bake until golden brown and crispy. Drizzle sugar syrup over the top and sprinkle with pistachios.",
         "rating": 4.9,
-        "recipe_picture": "https://www.example.com/kunefe.jpg",
+        "recipe_picture": "https://upload.wikimedia.org/wikipedia/commons/c/c8/K%C3%BCnefe.jpg",
         "recipe_id": "ea456r3"
       }
     }
